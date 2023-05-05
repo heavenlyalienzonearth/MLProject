@@ -1,0 +1,5 @@
+(base) E:\MLProjects>conda create -p venv python==3.10 -y
+
+Activate the Environment with the below command
+-----------------------------------------------
+(base) E:\MLProjects>conda activate venv/
